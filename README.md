@@ -14,14 +14,14 @@ Tenho experiência prática no desenvolvimento web e estou sempre em busca de no
 Fui responsável por implementar e testar funcionalidades, além de garantir a responsividade e a performance das aplicações.
 
 **Projetos Notáveis:**
-- [GMG Mais Educação](https://gmgmaiseducacao.com.br/)- Participei no desenvolvimento deste site utilizando HTML, CSS, Bootstrap e PHP.
+- [Sistema de venda de cursos onlines](https://gmgmaiseducacao.com.br/)- Participei no desenvolvimento deste site utilizando HTML, CSS, Bootstrap e PHP.
 
 ## Habilidades e Tecnologias
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5, React, Next.js
-- **Backend:** PHP, Laravel, NodeJs, NestJs
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5, React e Next.js
+- **Backend:** PHP, Laravel, NodeJs e NestJs
 - **TypeScript**
-- **Banco de Dados:** MySQL, PostgreSQl
+- **Banco de Dados:** MySQL e PostgreSQl
 - **Versionamento e Controle de Código:** Git, GitHub e Git Flow
 - **Práticas de Desenvolvimento:** CRUD, APIs, Responsive Design
 - **Segurança:** JWT (JSON Web Tokens), OAuth
