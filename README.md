@@ -18,11 +18,11 @@ Fui responsável por implementar e testar funcionalidades, além de garantir a r
 
 ## Habilidades e Tecnologias
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5, React, Vue.js
-- **Backend:** PHP, Laravel
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5, React, Next.js
+- **Backend:** PHP, Laravel, NodeJs, NestJs
 - **TypeScript**
-- **Banco de Dados:** MySQL
-- **Versionamento e Controle de Código:** Git, GitHub
+- **Banco de Dados:** MySQL, PostgreSQl
+- **Versionamento e Controle de Código:** Git, GitHub e Git Flow
 - **Práticas de Desenvolvimento:** CRUD, APIs, Responsive Design
 - **Segurança:** JWT (JSON Web Tokens), OAuth
 - **DevOps:** CI/CD
