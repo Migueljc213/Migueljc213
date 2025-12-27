@@ -57,7 +57,7 @@ Liderança técnica no desenvolvimento de um ERP para gestão de associados.
 
 - **LinkedIn:** [linkedin.com/in/jose-miguelfjc](https://www.linkedin.com/in/jose-miguelfjc)
 - **E-mail:** migueljccardozo@gmail.com
-- **Portfólio:** [Seu Link de Portfólio]
+- **Portfólio:** 
 
 ---
 *"Software is a great combination between artistry and engineering."*
