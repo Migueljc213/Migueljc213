@@ -1,40 +1,63 @@
-# José Miguel
+# Olá, eu sou o José Miguel! 🚀
 
-## Sobre Mim
+### Software Engineer | Full Stack Developer | Clean Code Enthusiast
 
-Olá! Sou José Miguel, atualmente cursando Sistemas para Internet na FAETERJ. 
-Tenho experiência prática no desenvolvimento web e estou sempre em busca de novas oportunidades para aprimorar minhas habilidades. 
+Sou um desenvolvedor apaixonado por construir soluções escaláveis, seguras e de alta performance. Atualmente, foco minha carreira no ecossistema **TypeScript (Node.js/Nest.js/React)**, sempre guiado pelas melhores práticas de engenharia de software como **SOLID, Clean Architecture e DDD**.
 
-## Experiência de Trabalho
+Além do desenvolvimento, sou monitor voluntário na **FAETERJ**, onde ajudo outros estudantes a dominarem a base da programação web, e participo da comunidade **HackerOne**, aprimorando minha visão de segurança aplicada ao código.
 
-**Empresa:** Brasmid  
-**Cargo:** Assistente de Desenvolvimento  
-**Período:** 30/05/2024 - Atual  
-**Responsabilidades:** Durante minha experiência na Brasmid, trabalhei com ferramentas como PHP, Laravel e Bootstrap 5 para desenvolver e manter diversos sites.
-Fui responsável por implementar e testar funcionalidades, além de garantir a responsividade e a performance das aplicações.
+---
 
-**Projetos Notáveis:**
-- [Sistema de venda de cursos onlines](https://gmgmaiseducacao.com.br/)- Participei no desenvolvimento deste site utilizando HTML, CSS, Bootstrap e PHP.
+## 🛠️ Tecnologias e Ferramentas
 
-## Habilidades e Tecnologias
+- **Backend:** Node.js, Nest.js, Go (Golang), PHP (Laravel)
+- **Frontend:** React, Next.js, Vue.js, TypeScript, Tailwind CSS
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, MariaDB
+- **Arquitetura & Qualidade:** SOLID, Clean Code, DDD, Design Patterns, Testes Unitários
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD, Git Flow
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5, React e Next.js
-- **Backend:** PHP, Laravel, NodeJs e NestJs
-- **TypeScript**
-- **Banco de Dados:** MySQL e PostgreSQl
-- **Versionamento e Controle de Código:** Git, GitHub e Git Flow
-- **Práticas de Desenvolvimento:** CRUD, APIs, Responsive Design
-- **Segurança:** JWT (JSON Web Tokens), OAuth
-- **DevOps:** CI/CD
-- **Autenticação e Autorização**
+---
 
-## Estudos Recentes
+## 💼 Experiência Profissional
 
-Atualmente, estou focado em aprofundar meus conhecimentos em **React** e **Next.js**, explorando suas capacidades e melhores práticas para o desenvolvimento moderno de aplicações web.
+- **Frog Summit** | Desenvolvedor Júnior Full Stack (Fev 2025 - Atualmente)
+  - Foco em microsserviços com Nest.js e interfaces modernas com Vue.js.
+- **Brasmid Startup** | Desenvolvedor Júnior Full Stack (Maio 2024 - Jan 2025)
+  - Desenvolvimento de Micro-SaaS, plataformas EAD e sistemas de gestão ponta a ponta.
 
-## Contato
+---
 
-- **LinkedIn:** www.linkedin.com/in/josé-miguelfjc
-- **Email:** migueljccardozo@gmail.com
+## 📌 Projetos em Destaque
 
-Sinta-se à vontade para entrar em contato para discussões sobre desenvolvimento web, oportunidades de colaboração ou qualquer outra questão!
+### [SGE - Sistema de Gestão Escolar](link-se-tiver)
+Sistema acadêmico completo para gestão de alunos, professores e notas. 
+- **Desafio:** Modelagem de regras de negócio complexas (N:M) e arquitetura desacoplada.
+- **Tech:** Nest.js, Next.js, PostgreSQL, SOLID.
+
+### [GMG Mais Educação](https://gmgmaiseducacao.com.br/)
+Plataforma EAD e Job Board com três níveis de acesso (Admin, Aluno, Empresa).
+- **Desafio:** Implementação de painel administrativo robusto e sistema de emissão de certificados.
+- **Tech:** PHP, MySQL, Bootstrap.
+
+### [CPSI - Sistema de Gestão AAP-VR](link-se-tiver)
+Liderança técnica no desenvolvimento de um ERP para gestão de associados.
+- **Desafio:** Gestão de equipe e definição da arquitetura técnica do zero.
+- **Tech:** Nest.js, Prisma, Next.js, Shadcn/UI.
+
+---
+
+## 📚 Atualmente focado em:
+- 📖 Estudo profundo do livro **"Clean Code"** de Robert C. Martin.
+- 🛡️ Pesquisa de vulnerabilidades e segurança defensiva via **HackerOne**.
+- 🏗️ Especialização em **Cloud Native** (Docker & Kubernetes).
+
+---
+
+## 📫 Vamos nos conectar?
+
+- **LinkedIn:** [linkedin.com/in/jose-miguelfjc](https://www.linkedin.com/in/jose-miguelfjc)
+- **E-mail:** migueljccardozo@gmail.com
+- **Portfólio:** [Seu Link de Portfólio]
+
+---
+*"Software is a great combination between artistry and engineering."*
