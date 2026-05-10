@@ -10,46 +10,59 @@ Além do desenvolvimento, sou monitor voluntário na **FAETERJ**, onde ajudo out
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Backend:** Node.js, Nest.js, Go (Golang), PHP (Laravel)
-- **Frontend:** React, Next.js, Vue.js, TypeScript, Tailwind CSS
-- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, MariaDB
-- **Arquitetura & Qualidade:** SOLID, Clean Code, DDD, Design Patterns, Testes Unitários
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD, Git Flow
+- **Backend:** Node.js, Nest.js, Go (Golang), PHP (Laravel), **Prisma, TypeORM**
+- **Frontend:** React, Next.js, Vue.js, TypeScript, Tailwind CSS, **SASS, Shadcn/UI**
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, **Redis (Caching), Aurora RDS**
+- **Arquitetura & Qualidade:** SOLID, Clean Code, DDD, Design Patterns, Testes Unitários/Automatizados
+- **DevOps & Cloud:** Docker, Kubernetes, **AWS (EC2, SQS, SSM)**, CI/CD, Git Flow, **WSL2**
+- **Inteligência Artificial:** **Prompt Engineering, Gestão de Respostas Estruturadas (JSON), Integração de LLMs**
 
 ---
 
 ## 💼 Experiência Profissional
 
-- **Frog Summit** | Desenvolvedor Júnior Full Stack (Fev 2025 - Atualmente)
-  - Foco em microsserviços com Nest.js e interfaces modernas com Vue.js.
-- **Brasmid Startup** | Desenvolvedor Júnior Full Stack (Maio 2024 - Jan 2025)
-  - Desenvolvimento de Micro-SaaS, plataformas EAD e sistemas de gestão ponta a ponta.
+- **Frog Summit** | Desenvolvedor Júnior Full Stack (**Março 2025** - Atualmente)
+    - Desenvolvimento de microsserviços com **Nest.js** e interfaces modernas com **Vue.js**.
+    - Aplicação de arquitetura modular e escalável seguindo os princípios de **SOLID e DDD**.
+- **Brasmid Startup** | Desenvolvedor Júnior Full Stack (Maio 2024 - **Dezembro 2025**)
+    - Desenvolvimento de **Micro-SaaS**, plataformas EAD e sistemas de gestão integrados.
+    - Implementação de **APIs RESTful** robustas utilizando **Laravel e Node.js**.
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### [SGE - Sistema de Gestão Escolar](link-se-tiver)
-Sistema acadêmico completo para gestão de alunos, professores e notas. 
-- **Desafio:** Modelagem de regras de negócio complexas (N:M) e arquitetura desacoplada.
+### [FunnelGuard AI](https://github.com/Migueljc213)
+Software de automação de marketing e auditoria de tráfego em tempo real.
+- **Destaque:** Integração de **Inteligência Artificial** para análise de dados e consumo da **Meta API**.
+- **Tech:** Node.js, AI APIs, Meta Integration.
+
+### [CliniFácil - Front](https://clinifacil-front.vercel.app/)
+Plataforma de gestão clínica com foco em experiência de usuário e pagamentos.
+- **Destaque:** Implementação de **Autenticação Google** e ambiente de testes com **Stripe** para checkout transparente.
+- **Tech:** Next.js, Stripe API, Google Auth.
+
+### [SGE - Sistema de Gestão Escolar](https://github.com/Migueljc213)
+Solução completa para gestão acadêmica, do conceito ao produto final.
+- **Desafio:** Modelagem de regras de negócio complexas e banco de dados **PostgreSQL** estruturado para alta consistência.
 - **Tech:** Nest.js, Next.js, PostgreSQL, SOLID.
 
-### [GMG Mais Educação](https://gmgmaiseducacao.com.br/)
-Plataforma EAD e Job Board com três níveis de acesso (Admin, Aluno, Empresa).
-- **Desafio:** Implementação de painel administrativo robusto e sistema de emissão de certificados.
-- **Tech:** PHP, MySQL, Bootstrap.
+### [Projeto Tráfego Pago](https://projeto-trafego-pago.vercel.app/)
+Aplicação para monitoramento e gestão de campanhas digitais.
+- **Destaque:** Foco em **CI/CD** e fluxos de trabalho colaborativos via **GitFlow**.
+- **Tech:** React, Vercel, Git.
 
-### [CPSI - Sistema de Gestão AAP-VR](link-se-tiver)
-Liderança técnica no desenvolvimento de um ERP para gestão de associados.
-- **Desafio:** Gestão de equipe e definição da arquitetura técnica do zero.
+### [CPSI - Sistema de Gestão AAP-VR](https://github.com/Migueljc213)
+**Liderança técnica** no desenvolvimento de um ERP institucional.
+- **Destaque:** Gestão de equipe e **mentoria técnica de estagiários**, definindo a arquitetura do zero.
 - **Tech:** Nest.js, Prisma, Next.js, Shadcn/UI.
 
 ---
 
 ## 📚 Atualmente focado em:
 - 📖 Estudo profundo do livro **"Clean Code"** de Robert C. Martin.
-- 🛡️ Pesquisa de vulnerabilidades e segurança defensiva via **HackerOne**.
-- 🏗️ Especialização em **Cloud Native** (Docker & Kubernetes).
+- 🛡️ Especialização em **Segurança Defensiva e Ethical Hacking** (DESEC/Hackone).
+- 🏗️ Aprimoramento em **Arquitetura Cloud Native** (AWS, Docker & Kubernetes).
 
 ---
 
@@ -57,7 +70,6 @@ Liderança técnica no desenvolvimento de um ERP para gestão de associados.
 
 - **LinkedIn:** [linkedin.com/in/jose-miguelfjc](https://www.linkedin.com/in/jose-miguelfjc)
 - **E-mail:** migueljccardozo@gmail.com
-- **Portfólio:** 
 
 ---
 *"Software is a great combination between artistry and engineering."*
