@@ -32,7 +32,7 @@ Além do desenvolvimento, sou monitor voluntário na **FAETERJ**, onde ajudo out
 
 ## 📌 Projetos em Destaque
 
-### [FunnelGuard AI](https://github.com/Migueljc213)
+### [FunnelGuard AI](https://projeto-trafego-pago.vercel.app/)
 Software de automação de marketing e auditoria de tráfego em tempo real.
 - **Destaque:** Integração de **Inteligência Artificial** para análise de dados e consumo da **Meta API**.
 - **Tech:** Node.js, AI APIs, Meta Integration.
