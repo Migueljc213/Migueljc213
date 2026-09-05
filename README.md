@@ -21,10 +21,10 @@ Além do desenvolvimento, sou monitor voluntário na **FAETERJ**, onde ajudo out
 
 ## 💼 Experiência Profissional
 
-- **Frog Summit** | Desenvolvedor Júnior Full Stack (**Março 2025** - Atualmente)
+- **Frog Summit** | Desenvolvedor Full Stack (**Março 2025** - Atualmente)
     - Desenvolvimento de microsserviços com **Nest.js** e interfaces modernas com **Vue.js**.
     - Aplicação de arquitetura modular e escalável seguindo os princípios de **SOLID e DDD**.
-- **Brasmid Startup** | Desenvolvedor Júnior Full Stack (Maio 2024 - **Dezembro 2025**)
+- **Brasmid Startup** | Desenvolvedor Full Stack (Maio 2024 - **Dezembro 2024**)
     - Desenvolvimento de **Micro-SaaS**, plataformas EAD e sistemas de gestão integrados.
     - Implementação de **APIs RESTful** robustas utilizando **Laravel e Node.js**.
 
