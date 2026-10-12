@@ -47,11 +47,6 @@ Projeto desenvolvido para demonstrar competência técnica na linguagem **Java**
 - **Destaque:** Gestão de equipe e **mentoria técnica de estagiários**, definindo a arquitetura do zero.
 - **Tech:** Nest.js, Prisma, Next.js, Shadcn/UI.
 
-### [CliniFácil - Front](https://clinifacil-front.vercel.app/)
-Plataforma de gestão clínica com foco em experiência de usuário e pagamentos.
-- **Destaque:** Implementação de **Autenticação Google** e ambiente de testes com **Stripe** para checkout transparente.
-- **Tech:** Next.js, Stripe API, Google Auth.
-
 ---
 
 ## 📚 Atualmente focado em:
