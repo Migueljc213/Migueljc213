@@ -53,30 +53,15 @@ Software de automação de marketing e auditoria de tráfego em tempo real.
 - **Destaque:** Integração de **Inteligência Artificial** para análise de dados e consumo da **Meta API**.
 - **Tech:** Node.js, AI APIs, Meta Integration.
 
-### [SGE - Sistema de Gestão Escolar](https://github.com/Migueljc213)
-Solução completa para gestão acadêmica, do conceito ao produto final.
-- **Desafio:** Modelagem de regras de negócio complexas e banco de dados **PostgreSQL** estruturado para alta consistência.
-- **Tech:** Nest.js, Next.js, PostgreSQL, SOLID.
-
+### [TaskFlow Java](https://github.com/Migueljc213/taskflow-java)
+Projeto desenvolvido para demonstrar competência técnica na linguagem **Java** e em arquitetura orientada a objetos.
+- **Destaque:** Implementação de lógica de gerenciamento de fluxos de trabalho utilizando os pilares da **POO**, tratamento de exceções e coleções robustas.
+- **Tech:** Java, Clean Code, OOP Principles.
+- 
 ### [CPSI - Sistema de Gestão AAP-VR](https://github.com/Migueljc213)
 **Liderança técnica** no desenvolvimento de um ERP institucional.
 - **Destaque:** Gestão de equipe e **mentoria técnica de estagiários**, definindo a arquitetura do zero.
 - **Tech:** Nest.js, Prisma, Next.js, Shadcn/UI.
-
-### [CliniFácil - Front](https://clinifacil-front.vercel.app/)
-Plataforma de gestão clínica com foco em experiência de usuário e pagamentos.
-- **Destaque:** Implementação de **Autenticação Google** e ambiente de testes com **Stripe** para checkout transparente.
-- **Tech:** Next.js, Stripe API, Google Auth.
-
----
-
-## 🎓 Certificações
-
-- AWS Solutions Architect – Associate *(em preparação)*
-- AWS Serverless Demonstrated
-- Fortinet NSE 3 Certified in Cybersecurity
-- Networking Basics
-- Networking Devices and Initial Configuration
 
 ---
 
