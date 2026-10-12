@@ -42,16 +42,6 @@ Projeto desenvolvido para demonstrar competência técnica na linguagem **Java**
 - **Destaque:** Implementação de lógica de gerenciamento de fluxos de trabalho utilizando os pilares da **POO**, tratamento de exceções e coleções robustas.
 - **Tech:** Java, Clean Code, OOP Principles.
 - 
-### [SGE - Sistema de Gestão Escolar](https://github.com/Migueljc213)
-Solução completa para gestão acadêmica, do conceito ao produto final.
-- **Desafio:** Modelagem de regras de negócio complexas e banco de dados **PostgreSQL** estruturado para alta consistência.
-- **Tech:** Nest.js, Next.js, PostgreSQL, SOLID.
-
-### [Projeto Tráfego Pago](https://projeto-trafego-pago.vercel.app/)
-Aplicação para monitoramento e gestão de campanhas digitais.
-- **Destaque:** Foco em **CI/CD** e fluxos de trabalho colaborativos via **GitFlow**.
-- **Tech:** React, Vercel, Git.
-
 ### [CPSI - Sistema de Gestão AAP-VR](https://github.com/Migueljc213)
 **Liderança técnica** no desenvolvimento de um ERP institucional.
 - **Destaque:** Gestão de equipe e **mentoria técnica de estagiários**, definindo a arquitetura do zero.
